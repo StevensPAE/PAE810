@@ -1,0 +1,6 @@
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\SPconnect\SPconnect\bin\Debug\SPconnect.dll.config
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\SPconnect\SPconnect\bin\Debug\SPconnect.dll
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\SPconnect\SPconnect\bin\Debug\SPconnect.pdb
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\SPconnect\SPconnect\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\SPconnect\SPconnect\obj\Debug\SPconnect.dll
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\SPconnect\SPconnect\obj\Debug\SPconnect.pdb

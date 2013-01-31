@@ -5,3 +5,5 @@ C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\SharePointConnect\
 C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\SharePointConnect\UnitTest\bin\Debug\SharePointConnect.pdb
 C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\SharePointConnect\UnitTest\obj\x86\Debug\UnitTest.exe
 C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\SharePointConnect\UnitTest\obj\x86\Debug\UnitTest.pdb
+C:\Users\Oleg Moshkovich\Documents\GitHub\PAE810\SharePointConnect\UnitTest\obj\x86\Debug\UnitTest.exe
+C:\Users\Oleg Moshkovich\Documents\GitHub\PAE810\SharePointConnect\UnitTest\obj\x86\Debug\UnitTest.pdb

@@ -60,7 +60,29 @@ namespace SharePointConnect
 
         //create new list in SP(ListName, [List Attributes());
         //ELCIN
-        // testing github
+       
+        //  XElement Class Overview http://msdn.microsoft.com/en-us/library/bb387085.aspx
+        //  Programming Sharepoint Lists and Libraries http://msdn.microsoft.com/en-us/library/dd490727(v=office.12).aspx
+        //  Add List Method
+        //  http://sarangasl.blogspot.com/2009/11/create-sharepoint-list-programmatically.html
+        //  http://blog.the-dargans.co.uk/2007/04/programmatically-adding-items-to.html
+        
+        //public string CreateList()
+        public List <string> CreateList(string ListName, string Description) 
+        {
+            
+            string myList;
+            string myListDescription;
+            int templatetype;
+            myList = ListName;
+            myListDescription = Description;
+            
+
+            // Call AddList Method of the Web service to create new list
+            SPConnection.AddList(myList,myListDescription,templatetype);
+            
+        }
+ 
 
         //get List attributes(ListName, Array of AttributeNames);
         //NACIEM

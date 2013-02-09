@@ -20,6 +20,7 @@ namespace Nextbus1
             if (XMLNode.Attributes["title"] != null) title = XMLNode.Attributes["title"].Value;
             if (XMLNode.Attributes["shortTitle"] != null) shortTitle = XMLNode.Attributes["shortTitle"].Value;
             if (XMLNode.Attributes["regionTitle"] != null) regionTitle = XMLNode.Attributes["regionTitle"].Value;
+            //hello change test
         }
     }
 

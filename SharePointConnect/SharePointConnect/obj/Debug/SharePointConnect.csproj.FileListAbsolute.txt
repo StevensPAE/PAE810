@@ -4,3 +4,9 @@ C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\SharePointConnect\
 C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\SharePointConnect\SharePointConnect\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\SharePointConnect\SharePointConnect\obj\Debug\SharePointConnect.dll
 C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\SharePointConnect\SharePointConnect\obj\Debug\SharePointConnect.pdb
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\Github\PAE810\SharePointConnect\SharePointConnect\bin\Debug\SharePointConnect.dll.config
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\Github\PAE810\SharePointConnect\SharePointConnect\bin\Debug\SharePointConnect.dll
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\Github\PAE810\SharePointConnect\SharePointConnect\bin\Debug\SharePointConnect.pdb
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\Github\PAE810\SharePointConnect\SharePointConnect\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\Github\PAE810\SharePointConnect\SharePointConnect\obj\Debug\SharePointConnect.dll
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\Github\PAE810\SharePointConnect\SharePointConnect\obj\Debug\SharePointConnect.pdb

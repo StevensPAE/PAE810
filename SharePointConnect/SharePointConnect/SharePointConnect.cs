@@ -15,6 +15,7 @@ namespace SharePointConnect
         ///////FIELDS
         private string myPassWord, myUserName;
         private bool myInitialized;
+        public List<string> ListNames;
 
         ///////PROPERTIES
         public string url { get; set; }
@@ -28,7 +29,7 @@ namespace SharePointConnect
             url = URL;
             myUserName = UserName;
             myPassWord = PassWord;
-            myInitialized = true;
+            myInitialized = connectToSP();
         }
         
         ////////METHODS
@@ -57,6 +58,33 @@ namespace SharePointConnect
             return SPconnect;
         }
 
+        //get ListNames () 
+        public bool getListNames()
+        {
+            bool NamesRetrieved = false;
+
+            //check if connection is established
+            try
+            {
+                XmlNode listCollection = SPConnection.GetListCollection();
+
+                ListNames = new List<string>();
+                //loop through listCollection
+                foreach(XmlNode myElement in listCollection.ChildNodes)
+                {
+                    //  for each node, get the title
+                    ListNames.Add(myElement.Attributes["Title"].Value);
+                }
+                NamesRetrieved = true;
+            }
+
+            catch (Exception)
+            {
+                
+            }
+            return NamesRetrieved;  
+        }
+        //MICHAEL
 
         //create new list in SP(ListName, [List Attributes());
         //ELCIN
@@ -64,10 +92,6 @@ namespace SharePointConnect
 
         //get List attributes(ListName, Array of AttributeNames);
         //NACIEM
-
-        //get ListNames () 
-        //---returns a list of all names
-        //MICHAEL
 
         //get ListItems(ListName)
         //--return List of XElements 

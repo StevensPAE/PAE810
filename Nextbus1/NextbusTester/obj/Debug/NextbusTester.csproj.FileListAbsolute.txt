@@ -1,0 +1,6 @@
+C:\Users\Oleg Moshkovich\Documents\GitHub\PAE810\Nextbus1\NextbusTester\bin\Debug\NextbusTester.exe.config
+C:\Users\Oleg Moshkovich\Documents\GitHub\PAE810\Nextbus1\NextbusTester\bin\Debug\NextbusTester.exe
+C:\Users\Oleg Moshkovich\Documents\GitHub\PAE810\Nextbus1\NextbusTester\bin\Debug\NextbusTester.pdb
+C:\Users\Oleg Moshkovich\Documents\GitHub\PAE810\Nextbus1\NextbusTester\obj\Debug\NextbusTester.csprojResolveAssemblyReference.cache
+C:\Users\Oleg Moshkovich\Documents\GitHub\PAE810\Nextbus1\NextbusTester\obj\Debug\NextbusTester.exe
+C:\Users\Oleg Moshkovich\Documents\GitHub\PAE810\Nextbus1\NextbusTester\obj\Debug\NextbusTester.pdb

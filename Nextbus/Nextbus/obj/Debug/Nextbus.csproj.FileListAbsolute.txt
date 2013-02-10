@@ -1,0 +1,5 @@
+C:\Users\Oleg Moshkovich\Documents\GitHub\PAE810\Nextbus\Nextbus\bin\Debug\Nextbus.dll
+C:\Users\Oleg Moshkovich\Documents\GitHub\PAE810\Nextbus\Nextbus\bin\Debug\Nextbus.pdb
+C:\Users\Oleg Moshkovich\Documents\GitHub\PAE810\Nextbus\Nextbus\obj\Debug\Nextbus.csprojResolveAssemblyReference.cache
+C:\Users\Oleg Moshkovich\Documents\GitHub\PAE810\Nextbus\Nextbus\obj\Debug\Nextbus.dll
+C:\Users\Oleg Moshkovich\Documents\GitHub\PAE810\Nextbus\Nextbus\obj\Debug\Nextbus.pdb

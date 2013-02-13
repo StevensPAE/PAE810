@@ -1,0 +1,5 @@
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\Github\PAE810\Nextbus\Nextbus\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\Github\PAE810\Nextbus\Nextbus\bin\Debug\Nextbus.dll
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\Github\PAE810\Nextbus\Nextbus\bin\Debug\Nextbus.pdb
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\Github\PAE810\Nextbus\Nextbus\obj\Debug\Nextbus.dll
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\Github\PAE810\Nextbus\Nextbus\obj\Debug\Nextbus.pdb

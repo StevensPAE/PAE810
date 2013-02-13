@@ -1,0 +1,8 @@
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\Github\Nextbus\NextbusTester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\Github\PAE810\Nextbus\NextbusTester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\Github\PAE810\Nextbus\NextbusTester\bin\Debug\NextbusTester.exe
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\Github\PAE810\Nextbus\NextbusTester\bin\Debug\NextbusTester.pdb
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\Github\PAE810\Nextbus\NextbusTester\bin\Debug\Nextbus.dll
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\Github\PAE810\Nextbus\NextbusTester\bin\Debug\Nextbus.pdb
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\Github\PAE810\Nextbus\NextbusTester\obj\x86\Debug\NextbusTester.exe
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\Github\PAE810\Nextbus\NextbusTester\obj\x86\Debug\NextbusTester.pdb

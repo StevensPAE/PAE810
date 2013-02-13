@@ -16,7 +16,24 @@ namespace UnitTest
         {
             Console.WriteLine(UnitTest1());
             UnitTest2();
+            Console.WriteLine(UnitTest3());
             Console.ReadLine();
+        }
+
+        private static string UnitTest3()
+        {
+
+            SharePointConnector mytestConnection = new SharePointConnector(myURL, myUser, myPassword); 
+            if (mytestConnection.AddList("Elcin123","Elcin123",100) == true)
+            {
+                //Console.WriteLine("Hurray");
+                return "UnitTest3 = SUCCESS";
+            }
+            else
+            {
+                //Console.WriteLine("Nooooooo");
+                return "UnitTest3 = FAILURE";
+            }
         }
 
 

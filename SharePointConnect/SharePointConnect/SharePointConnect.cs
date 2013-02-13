@@ -88,7 +88,20 @@ namespace SharePointConnect
 
         //create new list in SP(ListName, [List Attributes());
         //ELCIN
-        // testing github
+        public bool AddList(string ListName, string ListDescription, int TemplateId)
+        {
+            bool SPlist = false;
+            try
+            {
+                SPConnection.AddList(ListName, ListDescription, TemplateId);
+                SPlist = true;
+            }
+            catch (Exception)
+            {
+            }
+            return SPlist;
+
+        }
 
         //get List attributes(ListName, Array of AttributeNames);
         //NACIEM

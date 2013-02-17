@@ -1,0 +1,10 @@
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBus2\bin\Debug\NextBus2.dll
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBus2\bin\Debug\NextBus2.pdb
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBus2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBus2\obj\Debug\NextBus2.dll
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBus2\obj\Debug\NextBus2.pdb
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBus1\bin\Debug\NextBus1.dll
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBus1\bin\Debug\NextBus1.pdb
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBus1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBus1\obj\Debug\NextBus1.dll
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBus1\obj\Debug\NextBus1.pdb

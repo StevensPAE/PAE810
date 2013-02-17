@@ -1,0 +1,15 @@
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBusWPF\bin\Debug\NextBusWPF.exe
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBusWPF\bin\Debug\NextBusWPF.pdb
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBusWPF\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBusWPF\obj\x86\Debug\MainWindow.baml
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBusWPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBusWPF\obj\x86\Debug\App.g.cs
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBusWPF\obj\x86\Debug\NextBusWPF_MarkupCompile.cache
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBusWPF\obj\x86\Debug\NextBusWPF.g.resources
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBusWPF\obj\x86\Debug\NextBusWPF.Properties.Resources.resources
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBusWPF\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBusWPF\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBusWPF\obj\x86\Debug\NextBusWPF.exe
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBusWPF\obj\x86\Debug\NextBusWPF.pdb
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBusWPF\bin\Debug\NextBus1.dll
+C:\Users\JSchumacher\Documents\User\ACM_IMS\2_TT_Tools\PAE810\Nextbus1\Nextbus1\NextBusWPF\bin\Debug\NextBus1.pdb

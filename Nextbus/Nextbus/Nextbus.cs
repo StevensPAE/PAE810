@@ -77,7 +77,6 @@ namespace Nextbus
             }
         }
 
-
         public bool getRouteAttributes(string AgencyTag, string RouteTag)
         {
             try
